@@ -1,11 +1,10 @@
 # aws-ec2
 Project contain Infrastructure as a code for AWS instance creation using terraform
-Project contain Infrastructure as a code for AWS instance creation using terraform
 
 Steps to execute:
 
     1.Clone the repository.
-    2.Go inside aws-iaac directory
+    2.Go inside aws-ec2 directory
     3.Update variable.tf file with respective values.
     4.Execute command "terraform init"
     5.Execute command "terraform apply"
